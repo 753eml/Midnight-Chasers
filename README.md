@@ -1,2 +1,1 @@
-# Midnight-Chasers
-Alpha version of a Midnight Chasers script (luau).
+## Alpha version of a Midnight Chasers script (Built on LuaU language).
